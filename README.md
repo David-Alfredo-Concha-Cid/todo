@@ -23,6 +23,6 @@ El objetivo principal de la aplicación es permitir a los usuarios registrar nue
 
 •	Antes de ejecutar el proyecto, asegúrate de tener Django instalado y de haber configurado una base de datos PostgrestSql. Puedes encontrar instrucciones de instalación y configuración en la documentación oficial de Django.
 
-• Para visualizar la pagina ingresar en el siguiente link de vercel: https://todolist-batsu.vercel.app/?vercelToolbarCode=cNBT7eYxVdn7Gdq
+• Para visualizar la pagina ingresar en el siguiente link de vercel:https://todos-omega-seven.vercel.app/?vercelToolbarCode=ZYavaT54cRavlpf
 
 
