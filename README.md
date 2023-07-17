@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>Proyecto To-do-list </h1>
+  <h1>Proyecto To-dos </h1>
 </div>
 
 ## Antecedentes:
+
 
 Este proyecto es parte del curso "Desarrollo de Aplicaciones Full Stack Python Trainee" impartido por la institución Sence. 
 
@@ -15,8 +16,11 @@ En resumen, el Proyecto Todolist es una aplicación basada en Django que posibil
 
 ##	Objetivos:
 
-El objetivo principal de la aplicación es permitir a los usuarios registrar nuevas actividades en la página. También brinda la funcionalidad de marcar las actividades como completadas una vez que el usuario las haya realizado, lo cual facilita el seguimiento del progreso y distingue entre las actividades pendientes y las ya completadas. Además, la aplicación permite eliminar actividades.
+• Registrar nuevas actividades en la página "Todos".
 
+• Marcar con una marca de verificación las actividades completadas por el usuario.
+
+• Eliminar las actividades seleccionadas por el usuario.
 
 
 ## Requerimientos y otros detalles:
