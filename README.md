@@ -4,10 +4,11 @@
 
 ## Antecedentes:
 
+![image](https://github.com/David-Alfredo-Concha-Cid/todos/assets/113479167/1fea9602-e33c-4a59-a857-d7c1fc18160a)
 
 Este proyecto es parte del curso "Desarrollo de Aplicaciones Full Stack Python Trainee" impartido por la institución Sence. 
 
-![image](https://github.com/David-Alfredo-Concha-Cid/todolist/assets/113479167/4159ae87-75ad-4546-9229-46256daf0248)
+
 
 
 ## Descripción:
