@@ -16,9 +16,9 @@ En resumen, el Proyecto Todolist es una aplicación basada en Django que posibil
 
 ##	Objetivos:
 
-• Registrar nuevas actividades en la página "Todos".
+• Registrar nuevas actividades en la página "todos".
 
-• Marcar con una marca de verificación las actividades completadas por el usuario.
+• Utilizar una marca o un "check" de verificación para señalar las actividades completadas por el usuario.
 
 • Eliminar las actividades seleccionadas por el usuario.
 
